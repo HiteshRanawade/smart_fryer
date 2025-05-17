@@ -9,7 +9,6 @@ import shutil
 import serial
 import threading
 import re
-import sys
 
 class SmartFryerGUI:
     def __init__(self, root):

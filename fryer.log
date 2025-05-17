@@ -1,0 +1,60 @@
+2025-05-17 19:05:28,718 - INFO - Initializing FryerApp
+2025-05-17 19:06:06,816 - INFO - Initializing FryerApp
+2025-05-17 19:06:06,831 - INFO - Creating home screen
+2025-05-17 19:06:06,832 - INFO - Clearing screen
+2025-05-17 19:06:06,832 - INFO - Creating menu bar
+2025-05-17 19:06:18,362 - INFO - Initializing FryerApp
+2025-05-17 19:06:18,368 - INFO - Creating home screen
+2025-05-17 19:06:18,368 - INFO - Clearing screen
+2025-05-17 19:06:18,368 - INFO - Creating menu bar
+2025-05-17 19:06:23,483 - INFO - Showing veg menu
+2025-05-17 19:06:23,484 - INFO - Creating scrollable menu for Veg Menu
+2025-05-17 19:06:23,484 - INFO - Clearing screen
+2025-05-17 19:06:23,485 - INFO - Creating menu bar
+2025-05-17 19:06:32,678 - INFO - Showing frying progress - Temp: 185°C, Time: 12 minutes
+2025-05-17 19:06:43,715 - INFO - Creating home screen
+2025-05-17 19:06:43,715 - INFO - Clearing screen
+2025-05-17 19:06:43,716 - INFO - Creating menu bar
+2025-05-17 19:06:45,149 - INFO - Showing non-veg menu
+2025-05-17 19:06:45,149 - INFO - Creating scrollable menu for Non-Veg Menu
+2025-05-17 19:06:45,149 - INFO - Clearing screen
+2025-05-17 19:06:45,150 - INFO - Creating menu bar
+2025-05-17 19:06:48,365 - INFO - Creating home screen
+2025-05-17 19:06:48,366 - INFO - Clearing screen
+2025-05-17 19:06:48,367 - INFO - Creating menu bar
+2025-05-17 19:06:49,166 - INFO - Showing veg menu
+2025-05-17 19:06:49,166 - INFO - Creating scrollable menu for Veg Menu
+2025-05-17 19:06:49,166 - INFO - Clearing screen
+2025-05-17 19:06:49,167 - INFO - Creating menu bar
+2025-05-17 19:07:32,315 - INFO - Creating home screen
+2025-05-17 19:07:32,317 - INFO - Clearing screen
+2025-05-17 19:07:32,319 - INFO - Creating menu bar
+2025-05-17 19:07:33,631 - INFO - Showing non-veg menu
+2025-05-17 19:07:33,632 - INFO - Creating scrollable menu for Non-Veg Menu
+2025-05-17 19:07:33,632 - INFO - Clearing screen
+2025-05-17 19:07:33,633 - INFO - Creating menu bar
+2025-05-17 19:07:34,815 - INFO - Creating home screen
+2025-05-17 19:07:34,815 - INFO - Clearing screen
+2025-05-17 19:07:34,817 - INFO - Creating menu bar
+2025-05-17 19:07:35,582 - INFO - Showing manual fry screen
+2025-05-17 19:07:35,582 - INFO - Clearing screen
+2025-05-17 19:07:35,583 - INFO - Creating menu bar
+2025-05-17 19:07:35,587 - INFO - Showing customize dialog
+2025-05-17 19:07:40,381 - INFO - Heating turned off...
+2025-05-17 19:07:41,498 - INFO - Heating turned on...
+2025-05-17 19:07:42,599 - INFO - Raising basket...
+2025-05-17 19:07:43,464 - INFO - Lowering basket...
+2025-05-17 19:07:46,031 - INFO - Creating home screen
+2025-05-17 19:07:46,032 - INFO - Clearing screen
+2025-05-17 19:07:46,033 - INFO - Creating menu bar
+2025-05-17 19:07:47,480 - INFO - Showing non-veg menu
+2025-05-17 19:07:47,481 - INFO - Creating scrollable menu for Non-Veg Menu
+2025-05-17 19:07:47,481 - INFO - Clearing screen
+2025-05-17 19:07:47,481 - INFO - Creating menu bar
+2025-05-17 19:07:49,148 - INFO - Creating home screen
+2025-05-17 19:07:49,148 - INFO - Clearing screen
+2025-05-17 19:07:49,150 - INFO - Creating menu bar
+2025-05-17 19:07:50,264 - INFO - Showing veg menu
+2025-05-17 19:07:50,265 - INFO - Creating scrollable menu for Veg Menu
+2025-05-17 19:07:50,265 - INFO - Clearing screen
+2025-05-17 19:07:50,265 - INFO - Creating menu bar

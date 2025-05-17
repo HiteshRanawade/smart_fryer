@@ -1,0 +1,7 @@
+Start Fry - Temp: 170, Time: 90
+Customized Fry - Temp: 50, Time: 90
+Start Fry - Temp: 50, Time: 90
+Start Fry - Temp: 170, Time: 90
+Start Fry - Temp: 170, Time: 90
+Start Fry - Temp: 170, Time: 90
+Start Fry - Temp: 180, Time: 180
